@@ -14,7 +14,7 @@ dsq_thread_id:
 sub_title:
   - The stuff people ask too much.
 mashsb_timestamp:
-  - "1440731399"
+  - ""
 mashsb_shares:
   - "0"
 mashsb_jsonshares:
@@ -25,7 +25,7 @@ Yes and no.
 
 Many developers have setup JointsWP to be used with a child theme, however, it is not the recommended way of using the theme. It requires a lot of work to keep a theme "child theme friendly" and often hinders development.
 
-So while you are free to use the theme in any way you want, I highly recommend making all changes directly to the theme. Make it yours. That way you aren't dependent on what changes I may, or may not, make.
+So while you are free to use the theme in any way you want, I highly recommend making all changes directly to the theme. Make it yours! That way you aren't dependent on what changes I may, or may not, make.
 
 <em>You can always easily upgrade the Foundation version. Especially if you are using the Sass version of the theme, which has Bower support. </em>
 <h4>Who do you recommend for hosting?</h4>
