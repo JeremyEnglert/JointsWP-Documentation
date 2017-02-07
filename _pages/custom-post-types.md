@@ -9,13 +9,13 @@ permalink: >
   http://jointswp.com/docs/custom-post-types/
 published: true
 mashsb_timestamp:
-  - "1440717060"
+  - 'a:1:{i:0;s:10:"1440717060";}'
 mashsb_shares:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 mashsb_jsonshares:
-  - '{"total":0,"twitter":0,"facebook_total":0}'
+  - 'a:1:{i:0;s:42:"{"total":0,"twitter":0,"facebook_total":0}";}'
 dsq_thread_id:
-  - "3869461344"
+  - 'a:1:{i:0;s:10:"3869461344";}'
 ---
 In the assets/functions/custom-post-type.php file, you will find a template for setting up your own custom post types.
 

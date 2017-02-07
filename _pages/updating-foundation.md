@@ -9,13 +9,13 @@ permalink: >
   http://jointswp.com/docs/updating-foundation/
 published: true
 mashsb_timestamp:
-  - "1440729314"
+  - 'a:1:{i:0;s:10:"1440729314";}'
 mashsb_shares:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 mashsb_jsonshares:
-  - '{"total":0,"twitter":0,"facebook_total":0}'
+  - 'a:1:{i:0;s:42:"{"total":0,"twitter":0,"facebook_total":0}";}'
 dsq_thread_id:
-  - "3849388549"
+  - 'a:1:{i:0;s:10:"3849388549";}'
 ---
 I highly recommend making a full backup of your website before updating the Foundation version. While updating Foundation is pretty straight forward, it's better to be safe than sorry.
 <h3>Updating Foundation - CSS Version</h3>

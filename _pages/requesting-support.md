@@ -9,13 +9,13 @@ permalink: >
   http://jointswp.com/docs/requesting-support/
 published: true
 mashsb_timestamp:
-  - "1440723334"
+  - 'a:1:{i:0;s:10:"1440723334";}'
 mashsb_shares:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 mashsb_jsonshares:
-  - '{"total":0,"twitter":0,"facebook_total":0}'
+  - 'a:1:{i:0;s:42:"{"total":0,"twitter":0,"facebook_total":0}";}'
 dsq_thread_id:
-  - "3848544058"
+  - 'a:1:{i:0;s:10:"3848544058";}'
 ---
 JointsWP is meant to be a starting point for WordPress themes. It's designed to be heavily customized for whatever your specific project needs. This makes offering support for JointsWP extremely difficult - especially after heavy modifications.
 

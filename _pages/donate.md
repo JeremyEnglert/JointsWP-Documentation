@@ -8,7 +8,7 @@ layout: page
 permalink: http://jointswp.com/donate/
 published: true
 dsq_thread_id:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 ---
 Building JointsWP requires long nights and an extreme caffeine addiction. Help my addiction.
 

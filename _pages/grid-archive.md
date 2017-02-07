@@ -10,11 +10,11 @@ published: true
 dsq_thread_id:
   - "3848432144"
 mashsb_timestamp:
-  - "1440715007"
+  - 'a:1:{i:0;s:10:"1440715007";}'
 mashsb_shares:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 mashsb_jsonshares:
-  - '{"total":1,"twitter":1,"facebook_total":0}'
+  - 'a:1:{i:0;s:42:"{"total":1,"twitter":1,"facebook_total":0}";}'
 ---
 Using JointsWP, you can easily display your posts in a grid format. The Grid Archive uses <a href="http://foundation.zurb.com/sites/docs/equalizer.html">Foundation's Equalizer</a> to ensure all posts are the same height, which keeps the grid intact.
 

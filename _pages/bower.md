@@ -8,13 +8,13 @@ layout: page
 permalink: http://jointswp.com/docs/bower/
 published: true
 dsq_thread_id:
-  - "3848423156"
+  - 'a:1:{i:0;s:10:"3848423156";}'
 mashsb_timestamp:
-  - "1440725373"
+  - 'a:1:{i:0;s:10:"1440725373";}'
 mashsb_shares:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 mashsb_jsonshares:
-  - '{"total":0,"twitter":0,"facebook_total":0}'
+  - 'a:1:{i:0;s:42:"{"total":0,"twitter":0,"facebook_total":0}";}'
 ---
 The Sass version of JointsWP supports Bower, which allows you to update the included libraries (under<span style="font-family: monospace;"> vendor/</span>) with a single command. If you're new to Bower and don't have it installed, see <a href="http://bower.io/">Bower.io</a> for installation instructions.
 

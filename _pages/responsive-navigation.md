@@ -9,7 +9,7 @@ permalink: >
   http://jointswp.com/docs/responsive-navigation/
 published: true
 dsq_thread_id:
-  - "4459576949"
+  - 'a:1:{i:0;s:10:"4459576949";}'
 ---
 The responsive topbar uses <a href="http://foundation.zurb.com/sites/docs/responsive-navigation.html" target="_blank">Foundation 6 Responsive Navigation Patterns</a> to make it easy to switch between accordion, dropdown and drilldown menus at different breakpoints.
 

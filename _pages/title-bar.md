@@ -8,7 +8,7 @@ layout: page
 permalink: http://jointswp.com/docs/title-bar/
 published: true
 dsq_thread_id:
-  - "4460069224"
+  - 'a:1:{i:0;s:10:"4460069224";}'
 ---
 This menu uses the <a href="http://foundation.zurb.com/sites/docs/responsive-navigation.html#responsive-toggle" target="_blank">Responsive Toggle components in Foundation 6 </a>which functions similar to the Foundation 5 menu. To use this menu type, change the template part in <code>header.php</code> to:
 

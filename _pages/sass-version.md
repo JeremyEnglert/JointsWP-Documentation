@@ -8,13 +8,13 @@ layout: page
 permalink: http://jointswp.com/docs/sass-version/
 published: true
 dsq_thread_id:
-  - "3848422486"
+  - 'a:1:{i:0;s:10:"3848422486";}'
 mashsb_timestamp:
-  - "1440719888"
+  - 'a:1:{i:0;s:10:"1440719888";}'
 mashsb_shares:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 mashsb_jsonshares:
-  - '{"total":0,"twitter":0,"facebook_total":0}'
+  - 'a:1:{i:0;s:42:"{"total":0,"twitter":0,"facebook_total":0}";}'
 ---
 If you're using the Sass version of the theme, I'm going to assume you know how to install a WordPress theme. If you need a quick reminder, check out the JointsWP-CSS install instructions - the installation process is the same.
 <h3>Sass File Structure Overview</h3>

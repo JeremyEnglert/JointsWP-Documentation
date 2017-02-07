@@ -8,6 +8,6 @@ layout: page
 permalink: http://jointswp.com/docs/codekit/
 published: true
 dsq_thread_id:
-  - "4458499366"
+  - 'a:1:{i:0;s:10:"4458499366";}'
 ---
 JointsWP comes with a CodeKit configuration file. Simply add your JointsWP project to CodeKit like you would any other project and code away.

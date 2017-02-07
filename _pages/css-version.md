@@ -8,13 +8,13 @@ layout: page
 permalink: http://jointswp.com/docs/css-version/
 published: true
 dsq_thread_id:
-  - "3848422425"
+  - 'a:1:{i:0;s:10:"3848422425";}'
 mashsb_timestamp:
-  - "1440721264"
+  - 'a:1:{i:0;s:10:"1440721264";}'
 mashsb_shares:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 mashsb_jsonshares:
-  - '{"total":0,"facebook_total":0,"twitter":0}'
+  - 'a:1:{i:0;s:42:"{"total":0,"facebook_total":0,"twitter":0}";}'
 ---
 The CSS version of the theme works just like all other WordPress themes.
 <h3>Installation through WP Dashboard</h3>

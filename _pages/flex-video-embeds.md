@@ -9,7 +9,7 @@ permalink: >
   http://jointswp.com/docs/flex-video-embeds/
 published: true
 dsq_thread_id:
-  - "4458514026"
+  - 'a:1:{i:0;s:10:"4458514026";}'
 ---
 <a href="http://foundation.zurb.com/sites/docs/flex-video.html">Flex Video</a> is an awesome feature found in Foundation that allows for the use of responsive video embeds from websites like YouTube and Vimeo.
 

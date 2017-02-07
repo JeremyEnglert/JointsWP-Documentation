@@ -8,17 +8,17 @@ layout: page
 permalink: http://jointswp.com/about/
 published: true
 page_title:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 dsq_thread_id:
-  - "1570189819"
+  - 'a:1:{i:0;s:10:"1570189819";}'
 sub_title:
-  - The stuff people ask too much.
+  - 'a:1:{i:0;s:30:"The stuff people ask too much.";}'
 mashsb_timestamp:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 mashsb_shares:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 mashsb_jsonshares:
-  - '{"total":0,"twitter":0,"facebook_total":0}'
+  - 'a:1:{i:0;s:42:"{"total":0,"twitter":0,"facebook_total":0}";}'
 ---
 <h4>Is JointsWP child theme friendly?</h4>
 Yes and no.

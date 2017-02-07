@@ -8,7 +8,7 @@ layout: page
 permalink: http://jointswp.com/docs/file-structure/
 published: true
 dsq_thread_id:
-  - "4420813762"
+  - 'a:1:{i:0;s:10:"4420813762";}'
 ---
 <h2>Sass Version</h2>
 <h3>Styles</h3>

@@ -8,13 +8,13 @@ layout: page
 permalink: http://jointswp.com/docs/gulp/
 published: true
 dsq_thread_id:
-  - "3848423070"
+  - 'a:1:{i:0;s:10:"3848423070";}'
 mashsb_timestamp:
-  - "1440724372"
+  - 'a:1:{i:0;s:10:"1440724372";}'
 mashsb_shares:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 mashsb_jsonshares:
-  - '{"total":0,"facebook_total":0,"twitter":0}'
+  - 'a:1:{i:0;s:42:"{"total":0,"facebook_total":0,"twitter":0}";}'
 ---
 Although Gulp is not required to use this theme, JointsWP does come with a <code>gulpfile.js</code>, making it extremely easy to get up and running quickly.
 

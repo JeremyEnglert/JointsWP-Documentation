@@ -9,7 +9,7 @@ permalink: >
   http://jointswp.com/docs/admin-functions/
 published: true
 dsq_thread_id:
-  - "4459662527"
+  - 'a:1:{i:0;s:10:"4459662527";}'
 ---
 Simple functions that allow for the customization of the WordPress dashboard.
 
