@@ -1,3 +1,4 @@
+# JointsWP.com Documentation
 This handles the documentation content for JointsWP.com. It is synced to the website using the [WordPress GitHub Sync Plugin](https://github.com/mAAdhaTTah/wordpress-github-sync). If a page needs to be added, it must first be added to WordPress - simply create a new issue asking for the page to be created. 
 
 ## Contributing 
