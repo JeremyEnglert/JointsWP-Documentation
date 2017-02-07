@@ -8,17 +8,17 @@ layout: page
 permalink: http://jointswp.com/
 published: true
 sub_title:
-  - Build a Flexible Web.
+  - 'a:1:{i:0;s:21:"Build a Flexible Web.";}'
 dsq_thread_id:
-  - "2013694129"
+  - 'a:1:{i:0;s:10:"2013694129";}'
 page_title:
-  - A Blank, Foundation 5 WordPress Theme.
+  - 'a:1:{i:0;s:38:"A Blank, Foundation 5 WordPress Theme.";}'
 mashsb_timestamp:
-  - "1440732573"
+  - ""
 mashsb_shares:
-  - "184"
+  - 'a:1:{i:0;s:3:"184";}'
 mashsb_jsonshares:
-  - '{"total":184,"twitter":137,"facebook_total":47}'
+  - 'a:1:{i:0;s:47:"{"total":184,"twitter":137,"facebook_total":47}";}'
 ---
 <h3>Start with a Solid Foundation</h3>
 JointsWP is a blank WordPress theme built with <a href="http://foundation.zurb.com/" target="_blank">Foundation 6</a>, giving you all the power and flexibility you need to build complex, mobile friendly websites without starting from scratch.
