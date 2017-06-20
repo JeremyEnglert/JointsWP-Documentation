@@ -20,8 +20,8 @@ mashsb_shares:
 mashsb_jsonshares:
   - 'a:1:{i:0;s:47:"{"total":184,"twitter":137,"facebook_total":47}";}'
 ---
-<h3>Start with a Solid Foundation</h3>
-JointsWP is a blank WordPress theme built with <a href="http://foundation.zurb.com/" target="_blank">Foundation 6</a>, giving you all the power and flexibility you need to build complex, mobile friendly websites without starting from scratch.
+<h3>Start with a Solid Foundation!</h3>
+JointsWP is a blank WordPress theme built with <a href="http://foundation.zurb.com/" target="_blank" rel="noopener noreferrer">Foundation 6</a>, giving you all the power and flexibility you need to build complex, mobile friendly websites without starting from scratch.
 <h3>A Modern Workflow You'll Love</h3>
 This theme is meant to be your starting point, not the end product. No need to use child themes. It is not full of shortcodes (that you’ll probably never use) or functions that you’ll probably end up removing anyway.
 
