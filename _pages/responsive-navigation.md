@@ -25,4 +25,4 @@ In the <code>functions/menu.php</code> file, locate the <code>joints_top_nav()<
 'items_wrap' =&gt; '&lt;ul id=&quot;%1$s&quot; class=&quot;%2$s&quot; data-responsive-menu=&quot;accordion medium-dropdown&quot;&gt;%3$s&lt;/ul&gt;',
 [/php]
 
-Simply update the <code>menu_class</code> and <code>items_wrap</code> to match the navigation pattern you want. You also may need to adjust the class in <code>assets/functions/menu.php</code> depending on the type of menu you are creating.
+Simply update the <code>menu_class</code> and <code>items_wrap</code> to match the navigation pattern you want. You also may need to adjust the class in <code>functions/menu.php</code> depending on the type of menu you are creating.
