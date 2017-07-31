@@ -17,6 +17,6 @@ mashsb_jsonshares:
 dsq_thread_id:
   - 'a:1:{i:0;s:10:"3869461344";}'
 ---
-In the assets/functions/custom-post-type.php file, you will find a template for setting up your own custom post types.
+In the functions/custom-post-type.php file, you will find a template for setting up your own custom post types.
 
 This feature is disabled by default. To enable, uncomment Line #34 in the functions.php file.
