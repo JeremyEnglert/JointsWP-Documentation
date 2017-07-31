@@ -18,7 +18,7 @@ To use this menu type, change the template part in <code>header.php</code> to:
 [php]&lt;?php get_template_part( 'parts/nav', 'topbar' ); ?&gt;[/php]
 
 <h3>Responsive Menu Options</h3>
-In the <code>assets/functions/menu.php</code> file, locate the <code>joints_top_nav()</code> function. The two important lines of code are:
+In the <code>functions/menu.php</code> file, locate the <code>joints_top_nav()</code> function. The two important lines of code are:
 
 [php]
 'menu_class' =&gt; 'vertical medium-horizontal menu',
