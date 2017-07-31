@@ -27,6 +27,6 @@ Change to:
 [php]&lt;?php get_template_part( 'parts/loop', 'archive-grid' ); ?&gt;[/php]
 
 <h3>Grid Archive Options</h3>
-It is very easy to adjust the number of columns in the grid. Simply adjust the <code>$grid_columns</code> variable in <code>parts/loop-archive-grid.php</code> to the amount of columns you want to display. Then adjust the grid to your desired settings on line #13.
+It is very easy to adjust the number of columns in the grid. Simply adjust the <code>$grid_columns</code> variable in <code>parts/loop-archive-grid.php</code> to the amount of columns you want to display. Then adjust the grid to your desired settings on line #14.
 
 <p><a class="button" href="http://jointswp.com/demo/category/grid/" target="_blank">Grid Archive Demo</a></p>
