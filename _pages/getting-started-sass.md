@@ -31,9 +31,7 @@ At this point, JointsWP should be installed and fully running on your local mach
 <h4><a id="user-content-watching-for-changes" class="anchor" href="https://github.com/JeremyEnglert/JointsWP/#watching-for-changes" aria-hidden="true"></a>Watching for Changes</h4>
 <div>
 
-
 [code]$ npm run watch[/code]
-
 
 </div>
 <ul>
@@ -43,12 +41,20 @@ At this point, JointsWP should be installed and fully running on your local mach
 </ul>
 <h4><a id="user-content-watching-for-changes-with-browsersync" class="anchor" href="https://github.com/JeremyEnglert/JointsWP/#watching-for-changes-with-browsersync" aria-hidden="true"></a>Watching for Changes with Browsersync</h4>
 <div class="highlight highlight-source-shell">
-<pre>$ npm run browsersync</pre>
+
+
+[code]$ npm run browsersync[/code]
+
+
 </div>
 This will watch the same files as <code>npm run watch</code>, but utilizes browsersync for live reloading and style injection. Be sure to update the <code>URL</code> variable in the <code>gulpfile.js</code> to your local install URL.
 <h4>Compile and Minify All Theme Assets</h4>
 <div class="highlight highlight-source-shell">
-<pre>$ npm run build</pre>
+
+
+[code]$ npm run build[/code]
+
+
 </div>
 Compiles and minifies all scripts and styles.
 
