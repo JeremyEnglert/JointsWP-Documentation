@@ -29,8 +29,12 @@ At this point, JointsWP should be installed and fully running on your local mach
 
 <h3>Working with JointsWP</h3>
 <h4><a id="user-content-watching-for-changes" class="anchor" href="https://github.com/JeremyEnglert/JointsWP/#watching-for-changes" aria-hidden="true"></a>Watching for Changes</h4>
-<div class="highlight highlight-source-shell">
-<pre>$ npm run watch</pre>
+<div>
+
+
+[code]$ npm run watch[/code]
+
+
 </div>
 <ul>
  	<li>Watches for changes in the <code>assets/styles/scss</code> directory. When a change is made the SCSS files are compiled, concatenated with Foundation files and saved to the <code>/styles</code> directory. Sourcemaps will be created.</li>
