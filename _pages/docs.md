@@ -23,11 +23,10 @@ JointsWP (Sass version) requires <a href="https://nodejs.org/">Node.js</a> v6.
 <h3>Download JointsWP and install dependencies with npm</h3>
 <div class="highlight highlight-source-shell">
 
-[code]&lt;/pre&gt;
+[code]
 $ cd /wp-content/themes/
 $ git clone https://github.com/JeremyEnglert/JointsWP.git
 $ cd JointsWP $ npm install
-
 [/code]
 
 
