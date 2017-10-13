@@ -53,3 +53,23 @@ Compiles and minifies all scripts and styles.
  	<li><code>$ npm run scripts</code> - to compile all JS files in the <code>assets/scripts/js</code> directory.</li>
  	<li><code>$ npm run images</code> - to optimize all image files in the <code>assets/images</code> directory.</li>
 </ul>
+
+<hr />
+
+<h3>File Structure - "Where to Put Stuff"</h3>
+<h3>Custom Styles</h3>
+<ul>
+ 	<li><code>style.css</code> - this file is never actually loaded, however, this is where you set your theme name and is required by WordPress</li>
+ 	<li><code>assets/styles/scss/style.scss</code> - import all of your styles here. If you create an additional SCSS file, be sure to import it here.</li>
+ 	<li><code>assets/styles/scss/_main.scss</code> - place all of your custom styles here.</li>
+ 	<li><code>assets/styles/scss/_settings.scss</code> - adjust Foundation style settings here.</li>
+ 	<li><code>assets/styles/scss/login.scss</code> - place custom login styles here. This will generate it's own stylesheet.</li>
+</ul>
+<h3>Custom Scripts</h3>
+<ul>
+ 	<li><code>assets/scripts/js/</code> - place your custom scripts here. Each .JS file will be compiled and concatenated when the build process is ran.</li>
+</ul>
+<h3>>Images</h3>
+<ul>
+ 	<li><code>assets/images/</code> - place your theme images here. Each image will be optimized when the build process is ran.</li>
+</ul>
