@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2016-02-25 23:10:46
 ---
-Since JointsWP added Gulp, two of the most requested features have been the integration of <a href="https://www.browsersync.io/" target="_blank">Browsersync</a> and Source Maps - I'm happy to say these have been added to the newest version of JointsWP that was released today.
+Since JointsWP added Gulp, two of the most requested features have been the integration of <a href="https://www.browsersync.io/" target="_blank" rel="noopener">Browsersync</a> and Source Maps - I'm happy to say these have been added to the newest version of JointsWP that was released today.
 
 <!--more-->
 
