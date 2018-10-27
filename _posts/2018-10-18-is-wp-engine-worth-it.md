@@ -33,7 +33,7 @@ When you create a "new install", WordPress is automatically setup and installed 
 
 If you've ever moved a WordPress site manually, you know that it's really not that hard. It's no different with WP Engine. And if you ever run into a roadblock, their support team is awesome and can help work through almost any issue you throw at them.
 
-WP Engine has since released there own <a href="https://wordpress.org/plugins/wp-site-migrate/">migration plugin</a>, which looks similar to Duplicator and other popular migration tools.
+WP Engine has since released their own <a href="https://wordpress.org/plugins/wp-site-migrate/">migration plugin</a>, which looks similar to Duplicator and other popular migration tools.
 <h2>Security</h2>
 Every week there seems to be a new theme, plugin or core vulnerability plaguing WordPress. WP Engine understands this and does a ton of work to make sure your website stays safe.
 <blockquote><em>"WP Engine blocks millions of attacks each day. Not only do we mitigate garden variety DDoS and brute force attacks, but thousands of rule sets specifically tuned for WordPress identify and prevent attacks before they happen. Our proprietary, adaptable intrusion detection and prevention system dynamically detects and blocks malicious behavior such as JavaScript/SQL-injection attacks and even more sophisticated attacks such as XML-RPC attacks. And of course, we block IP addresses identified as belonging to spammers or hackers."</em></blockquote>
