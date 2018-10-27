@@ -62,4 +62,4 @@ If price is the only thing holding you back, check out <a href="http://jointswp.
 
 <strong>Bonus Tip:</strong> <a href="http://jointswp.com/loves/wp-engine-affiliate" target="_blank" rel="noopener">WP Engine will pay you $200 for each client you sign up.</a>
 
-<strong>Bonus Tip #2:</strong> <a href="http://jointswp.com/loves/wp-engine-review" target="_blank" rel="noopener">Save 20% on your first payment by using code SPEEDUP.</a>
+<strong>Bonus Tip #2:</strong> <a href="http://jointswp.com/loves/wp-engine-review" target="_blank" rel="noopener">Save 20% on your first payment by using this link.</a>
