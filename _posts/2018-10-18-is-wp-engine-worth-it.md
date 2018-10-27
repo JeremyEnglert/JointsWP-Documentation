@@ -7,11 +7,11 @@ layout: post
 permalink: >
   http://jointswp.com/is-wp-engine-worth-it/
 published: true
-post_date: 2015-11-18 04:14:47
+post_date: 2018-10-18 04:14:47
 ---
-About a year ago, we made the decision to move all of our WordPress-based websites to a "managed" hosting solution. We didn't make this decision lightly as it would involve moving a few large websites while also increasing the cost of our monthly hosting (compared to our <span style="text-decoration: line-through;">crappy</span> cheap hosting).
+About 2  years ago, we made the decision to move all of our WordPress-based websites to a "managed" hosting solution. We didn't make this decision lightly as it would involve moving a few large websites while also increasing the cost of our monthly hosting (compared to our <span style="text-decoration: line-through;">crappy</span> cheap hosting).
 
-After looking into a few different options, we ultimately decided on <a href="http://jointswp.com/loves/wp-engine-review" target="_blank">WP Engine</a>. We felt WP Engine offered many of the features we were looking for at a very reasonable price. We also loved the fact that we could test the platform for 60 days for free.
+After looking into a few different options, we ultimately decided on <a href="http://jointswp.com/loves/wp-engine-review" target="_blank" rel="noopener">WP Engine</a>. We felt WP Engine offered many of the features we were looking for at a very reasonable price. We also loved the fact that we could test the platform for 60 days for free.
 
 So 12-months later, was it really worth it? Lets take a look at some of my favorite features and things that I think could be improved on.
 
@@ -19,9 +19,9 @@ So 12-months later, was it really worth it? Lets take a look at some of my favo
 <h2>Speed and Performance</h2>
 There's no doubt, WP Engine is fast. Like really fast.<a href="http://jointswp.com/jointswp-faster-after-moving-wp-engine/"> JointsWP.com is 4x faster on WP Engine compared to HostGator</a>. This is due to many factors, but it essentially comes down to:
 <ol>
-	<li>They utilize awesome servers, which utilizes their own <a href="https://wpengine.com/our-infrastructure/" target="_blank">"secret sauce"</a></li>
-	<li>The servers are optimizes for WordPress, which includes a caching system</li>
-	<li>They don't overload their servers like most shared hosts</li>
+ 	<li>They utilize awesome servers, which utilizes their own <a href="https://wpengine.com/our-infrastructure/" target="_blank" rel="noopener">"secret sauce"</a></li>
+ 	<li>The servers are optimizes for WordPress, which includes a caching system</li>
+ 	<li>They don't overload their servers like most shared hosts</li>
 </ol>
 Many packages also include the use of a CDN, which automagically (literally, it's like magic - no setup involved) offloads all of your JavaScript, CSS and images onto a CDN - causing your website to load even faster. If you have a media heavy website, you should see significant gains by using a CDN.
 
@@ -47,19 +47,19 @@ You can use these staging sites to test large changes such as theme modification
 
 <strong>Other Features We Love:</strong>
 <ul>
-	<li>Automatic Daily Back-Ups / 1-Click Restore Points</li>
-	<li>Easy to use CDN</li>
-	<li>Git Integration</li>
+ 	<li>Automatic Daily Back-Ups / 1-Click Restore Points</li>
+ 	<li>Easy to use CDN</li>
+ 	<li>Git Integration</li>
 </ul>
 <h2>Summary</h2>
-<a href="http://jointswp.com/loves/wp-engine-review" target="_blank">WP Engine</a> seems to have been built around one core concept: <em><strong>hosting WordPress websites in an easy, effective manner. </strong></em>
+<a href="http://jointswp.com/loves/wp-engine-review" target="_blank" rel="noopener">WP Engine</a> seems to have been built around one core concept: <em><strong>hosting WordPress websites in an easy, effective manner. </strong></em>
 
 It may cost more than shared hosting like HostGator or DreamHost (avoid them, please), but after using the platform for about a year, I realize that isn't a fair comparison. WP Engine is so much more than "just a host", it's a platform developed to supercharge your WordPress website.
 
 So was WP Engine "worth it"? <em>Definitely.</em>
 
-If price is the only thing holding you back, check out <a href="http://jointswp.com/loves/siteground" target="_blank">SiteGround</a>. They offer WordPress hosting packages that have many of the same features of WP Engine with <a href="http://jointswp.com/loves/siteground">packages starting at $3.95</a>.
+If price is the only thing holding you back, check out <a href="http://jointswp.com/loves/siteground" target="_blank" rel="noopener">SiteGround</a>. They offer WordPress hosting packages that have many of the same features of WP Engine with <a href="http://jointswp.com/loves/siteground">packages starting at $3.95</a>.
 
-<strong>Bonus Tip:</strong> <a href="http://jointswp.com/loves/wp-engine-affiliate" target="_blank">WP Engine will pay you $200 for each client you sign up.</a>
+<strong>Bonus Tip:</strong> <a href="http://jointswp.com/loves/wp-engine-affiliate" target="_blank" rel="noopener">WP Engine will pay you $200 for each client you sign up.</a>
 
-<strong>Bonus Tip #2:</strong> <a href="http://jointswp.com/loves/wp-engine-review" target="_blank">Save 20% on your first payment by using code SPEEDUP.</a>
+<strong>Bonus Tip #2:</strong> <a href="http://jointswp.com/loves/wp-engine-review" target="_blank" rel="noopener">Save 20% on your first payment by using code SPEEDUP.</a>
